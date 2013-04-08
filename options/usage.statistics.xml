@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UsagesStatistic" time="1364640738030" allowed="true" show-notification="false" period="weekly">
+    <group id="JavaScript versions" priority="0.0" data="DEFAULT=12" />
+    <group id="Look and Feel" priority="0.0" data="Mac OS X - Default=1" />
+    <group id="features counts" priority="0.0" data="execute.JavascriptDebugSession.Debug=35,execute.DartDebugSession.Debug=1,CreateFile.CreateFileAction=30,execute.NodeJSConfigurationType.Run=205,NewDirectoryProjectAction.Twitter Bootstrap=1,NewDirectoryProjectAction.empty=3" />
+    <group id="file-type" priority="0.0" data="CoffeeScript=1,SCSS=5,C++=3,UNKNOWN=12,Images=7,LESS=1,HTML=11,Native=1,JSHint=1,PATCH=1,PLAIN_TEXT=7,ARCHIVE=2,YAML=4,Perl=2,JSON=6,XML=12,JavaScript=12,CSS=10,ActionScript=1" />
+    <group id="javaScript Frameworks" priority="0.0" data="Node.js Core Modules v0.8.19=1" />
+    <group id="javaScript Scope Usages" priority="0.0" data="Project=58" />
+    <group id="module type" priority="0.0" data="WEB_MODULE=12" />
+    <group id="non-bundled-plugins" priority="0.0" data="AngularJS=0,com.intellij=1" />
+    <group id="productivity" priority="0.0" data="navigation.popup.class=3,editing.completion.basic=547,ui.tree.speedsearch=1,editing.completion.replace=24,editing.select.word=121,navigation.popup.file=20,navigation.popup.action=1,editing.completion.camelHumps=1,editing.completion.finishByDotEtc=129,navigation.goto.declaration=41,editing.completion.finishByControlEnter=14,refactoring.rename=171,navigation.popup.camelprefix=2" />
+    <group id="run-configuration-type" priority="0.0" data="JavascriptDebugSession.Remote=2,JavascriptDebugSession.Local=4,DartDebugSession.Local=1,NodeJSConfigurationType=7" />
+    <group id="run-configuration-type-temp" priority="0.0" data="JavascriptDebugSession.Local=1,JSTestDriver ConfigurationType=1" />
+    <group id="vcs" priority="0.0" data="Git=3" />
+  </component>
+</application>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="OptionsEditor.0.0.1920.1200" x="331" y="170" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.-1920.0.1920.1080" x="-1280" y="397" />
+    <location key="replaceTextDialog.-1920.0.1920.1080" x="-838" y="300" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.-1920.0.1920.1080" x="-1597" y="327" />
+    <location key="GridCell.Tab.3.bottom.-1920.0.1920.1080" x="-540" y="400" />
+    <location key="#SampleNodeApp.-1920.0.1920.1080" x="-1646" y="187" />
+    <location key="IdeErrosDialog.-1920.0.1920.1080" x="-1705" y="317" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.-1920.0.1920.1080" x="-1124" y="468" />
+    <location key="GridCell.Tab.3.center.-1920.0.1920.1080" x="-540" y="400" />
+    <location key="CommitChangelistDialog.0.0.1920.1200" x="598" y="318" />
+    <location key="CommitChangelistDialog.-1920.0.1920.1080" x="-1168" y="221" />
+    <location key="#com.intellij.tools.ToolEditorDialog.-1920.0.1920.1080" x="-1207" y="302" />
+    <location key="ReplaceDuplicatesPrompt.-1920.0.1920.1080" x="-1022" y="543" />
+    <location key="GitCloneDialog.0.0.1920.1200" x="683" y="427" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200" x="-958" y="526" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1200" x="690" y="503" />
+    <location key="#Node_Supervisor_(OSX).-1920.0.1920.1080" x="-1292" y="197" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.-1920.0.1920.1080" x="-1278" y="384" />
+    <location key="SimpleOpenTaskDialog.-1920.0.1920.1080" x="-1216" y="480" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.-1920.0.1920.1080" x="-1454" y="304" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.-1920.0.1920.1080" x="-1337" y="365" />
+    <location key="#.-1920.0.1920.1080" x="-1330" y="180" />
+    <location key="VCS.ChangelistChooser.-1920.0.1920.1080" x="-1145" y="373" />
+    <location key="IdeErrosDialog.0.0.1920.1200" x="536" y="384" />
+    <location key="#Custom_Plugin_Repositories.-1920.0.1920.1080" x="-931" y="377" />
+    <location key="#com.intellij.tools.OutputFiltersDialog.-1920.0.1920.1080" x="-1135" y="429" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.-1920.0.1920.1080" x="-1198" y="429" />
+    <location key="#Servers.-1920.0.1920.1080" x="-1115" y="413" />
+    <location key="findTextDialog.-1920.0.1920.1080" x="-1281" y="306" />
+    <location key="GridCell.Tab.3.right.-1920.0.1920.1080" x="-540" y="400" />
+    <location key="git4idea.push.GitPushDialog.0.0.1920.1200" x="590" y="385" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.-1920.0.1920.1080" x="-1263" y="175" />
+    <location key="#Inspections.-1920.0.1920.1080" x="-1004" y="296" />
+    <location key="#Dart.-1920.0.1920.1080" x="-1523" y="458" />
+    <location key="GridCell.Tab.3.left.-1920.0.1920.1080" x="-540" y="400" />
+    <location key="git4idea.push.GitPushDialog.-1920.0.1920.1080" x="-1274" y="267" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.-1920.0.1920.1080" x="-1670" y="267" />
+    <location key="FileChooserDialogImpl.-1920.0.1920.1080" x="-1613" y="195" />
+    <location key="#com.intellij.ide.util.TreeFileChooserDialog.-1920.0.1920.1080" x="-1151" y="394" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.-1920.0.1920.1080" x="-1501" y="208" />
+    <location key="#Node_Server_(OSX).-1920.0.1920.1080" x="-1292" y="197" />
+    <location key="Git.Log.Tree.Goto.-1920.0.1920.1080" x="-1808" y="827" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1200" x="321" y="315" />
+    <location key="OptionsEditor.-1920.0.1920.1080" x="-1918" y="72" />
+    <location key="#com.intellij.ide.macro.MacrosDialog.-1920.0.1920.1080" x="-1206" y="255" />
+    <location key="WELCOME_SCREEN.-1920.0.1920.1080" x="-960" y="297" />
+    <location key="#Browse_Repositories.-1920.0.1920.1080" x="-1202" y="153" />
+    <location key="GitCloneDialog.-1920.0.1920.1080" x="-1288" y="455" />
+    <location key="#Node_Server_(Windows).-1920.0.1920.1080" x="-1292" y="197" />
+    <location key="EditParametersPopupWindow.-1920.0.1920.1080" x="-1286" y="226" />
+    <location key="dock-window-1.-1920.0.1920.1080" x="-540" y="400" />
+    <size key="GridCell.Tab.1.center.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.1.bottom.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.-1920.0.1920.1080" width="700" height="500" />
+    <size key="GridCell.Tab.1.right.0.22.1920.1090" width="1129" height="218" />
+    <size key="GridCell.Tab.1.center.0.22.1920.1090" width="1129" height="218" />
+    <size key="GridCell.Tab.3.bottom.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.2.left.0.22.1920.1090" width="1129" height="218" />
+    <size key="GridCell.Tab.2.left.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.0.bottom.-1920.0.1920.1080" width="1770" height="218" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1629" height="237" />
+    <size key="#Servers.-1920.0.1920.1080" width="708" height="452" />
+    <size key="GridCell.Tab.2.bottom.0.22.1920.1090" width="1129" height="218" />
+    <size key="GridCell.Tab.2.center.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.3.right.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.0.center.0.22.1920.1090" width="1129" height="218" />
+    <size key="GridCell.Tab.2.right.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.-1920.0.1920.1080" width="431" height="157" />
+    <size key="GridCell.Tab.2.center.0.22.1920.1090" width="1129" height="218" />
+    <size key="GridCell.Tab.3.center.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.0.bottom.0.22.1920.1090" width="1129" height="218" />
+    <size key="GridCell.Tab.3.left.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.0.left.0.22.1920.1090" width="1129" height="218" />
+    <size key="CommitChangelistDialog.0.0.1920.1200" width="699" height="699" />
+    <size key="GridCell.Tab.1.right.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.0.right.0.22.1920.1090" width="1129" height="218" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1629" height="237" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1629" height="237" />
+    <size key="CommitChangelistDialog.-1920.0.1920.1080" width="699" height="699" />
+    <size key="GridCell.Tab.2.right.0.22.1920.1090" width="1129" height="218" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1629" height="237" />
+    <size key="Git.Log.Tree.Goto.-1920.0.1920.1080" width="374" height="63" />
+    <size key="GitCloneDialog.0.0.1920.1200" width="751" height="170" />
+    <size key="OptionsEditor.-1920.0.1920.1080" width="1807" height="899" />
+    <size key="GridCell.Tab.0.left.-1920.0.1920.1080" width="1770" height="218" />
+    <size key="GridCell.Tab.0.right.-1920.0.1920.1080" width="1770" height="218" />
+    <size key="GitCloneDialog.-1920.0.1920.1080" width="751" height="170" />
+    <size key="GridCell.Tab.1.left.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.2.bottom.-1920.0.1920.1080" width="1874" height="229" />
+    <size key="GridCell.Tab.0.center.-1920.0.1920.1080" width="1770" height="218" />
+    <size key="GridCell.Tab.1.left.0.22.1920.1090" width="1129" height="218" />
+    <size key="dock-window-1.-1920.0.1920.1080" width="248" height="258" />
+    <size key="GridCell.Tab.1.bottom.0.22.1920.1090" width="1129" height="218" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.apple.laf.AquaLookAndFeel" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="evlsprt.5" value="13b243e3675" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="evlsprt.6" value="13c40a7bc00" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="evlsprt3.6" value="17" />
+    <property name="evlsprt3.5" value="16" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="evlsprt2.6" value="13be91bd7f0" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="WebStorm.InitialConfiguration" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0.0" />
+    <property name="FileTemplates.SelectedTemplate" value="JavaScript File" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_" value="0.8" />
+    <property name="JSHintOptionsTreeView.RIGHT_DIVIDER_PROPORTION" value="0.7" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="installation.uid" value="ea461b05-935f-46a6-9b80-ff010b6b366b" />
+    <property name="export.settings.path" value="$USER_HOME$/Library/Preferences/WebIde60/settings.jar" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="60.0" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20.0" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="JSHintOptionsTreeView.MAIN_DIVIDER_PROPORTION" value="0.7" />
+    <property name="Tests" value="Green" />
+    <property name="evlsprt2.5" value="13ba4fa72dc" />
+    <property name="ColorChooser.RecentColors" value="232-232-232-255" />
+  </component>
+</application>
+

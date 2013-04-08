@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="angular-lazy-app" values="NodeJSConfigurationType" />
+      <project id="mustard" values="JavascriptDebugSession.Remote,NodeJSConfigurationType" />
+      <project id="angular-view-states" values="NodeJSConfigurationType" />
+      <project id="set-default" values="NodeJSConfigurationType" />
+      <project id="angular-mustard" values="NodeJSConfigurationType" />
+      <project id="pagejs" values="NodeJSConfigurationType" />
+      <project id="ify.io" values="JavascriptDebugSession.Local,JavascriptDebugSession.Remote" />
+      <project id="SampleAngularApp" values="JavascriptDebugSession.Local" />
+      <project id="Testrim" values="JavascriptDebugSession.Local" />
+      <project id="SampleNodeApp" values="NodeJSConfigurationType" />
+      <project id="angular-blog" values="NodeJSConfigurationType" />
+      <project id="AngularJsSample" values="JavascriptDebugSession.Local,DartDebugSession.Local" />
+    </group>
+    <group name="vcs">
+      <project id="mustard-static" values="Git" />
+      <project id="mustard" values="Git" />
+      <project id="angular-view-states" values="Git" />
+      <project id="set-default" values="Git" />
+      <project id="express-static-mate" values="Git" />
+      <project id="staticmate" values="Git" />
+      <project id="AngularJsSample" values="Git" />
+    </group>
+    <group name="module type">
+      <project id="angular-app" values="WEB_MODULE" />
+      <project id="angular-lazy-app" values="WEB_MODULE" />
+      <project id="mustard-static" values="WEB_MODULE" />
+      <project id="mustard" values="WEB_MODULE" />
+      <project id="angular-view-states" values="WEB_MODULE" />
+      <project id="set-default" values="WEB_MODULE" />
+      <project id="angular-mustard" values="WEB_MODULE" />
+      <project id="pagejs" values="WEB_MODULE" />
+      <project id="ify.io" values="WEB_MODULE" />
+      <project id="SampleAngularApp" values="WEB_MODULE" />
+      <project id="Testrim" values="WEB_MODULE" />
+      <project id="SampleNodeApp" values="WEB_MODULE" />
+      <project id="angular-blog" values="WEB_MODULE" />
+      <project id="express-static-mate" values="WEB_MODULE" />
+      <project id="staticmate" values="WEB_MODULE" />
+      <project id="AngularJsSample" values="WEB_MODULE" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="SampleNodeApp" values="Node.js Core Modules v0.8.19" />
+      <project id="set-default" values="Node.js Core Modules v0.10.0" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="SampleAngularApp" values="JSTestDriver ConfigurationType" />
+      <project id="AngularJsSample" values="JavascriptDebugSession.Local" />
+    </group>
+    <group name="file-type">
+      <project id="angular-app" values="PATCH,UNKNOWN,JSON,C++,JavaScript,YAML,CSS,ARCHIVE,XML,SCSS,Images,JSHint,PLAIN_TEXT,HTML,CoffeeScript,Perl,Native" />
+      <project id="angular-lazy-app" values="CSS,JavaScript,Images,XML,UNKNOWN,YAML,ActionScript,C++,Perl,HTML,JSON,PLAIN_TEXT,ARCHIVE" />
+      <project id="mustard-static" values="Images,PLAIN_TEXT,C++,Perl,JSON,Jade,UNKNOWN,JavaScript,JSHint,ARCHIVE,CoffeeScript,XML,YAML,CSS,HTML" />
+      <project id="mustard" values="XML,C++,HTML,JSON,UNKNOWN,Images,SCSS,YAML,JavaScript,CSS,PLAIN_TEXT" />
+      <project id="angular-view-states" values="CSS,JavaScript,UNKNOWN,PLAIN_TEXT,HTML,XML" />
+      <project id="set-default" values="PLAIN_TEXT,HTML,YAML,JSON,UNKNOWN,Images,Jade,XML,CSS,JavaScript" />
+      <project id="angular-mustard" values="JSHint,C++,UNKNOWN,Perl,PLAIN_TEXT,XML,ARCHIVE,HTML,YAML,Images,CSS,SCSS,Jade,JavaScript,JSON,CoffeeScript" />
+      <project id="pagejs" values="UNKNOWN,JavaScript,HTML,XML" />
+      <project id="ify.io" values="YAML,CSS,HTML,JavaScript,LESS,Images,UNKNOWN,XML,PLAIN_TEXT,JSON" />
+      <project id="SampleAngularApp" values="SCSS,Images,JSON,HTML,CSS,JavaScript,XML,UNKNOWN" />
+      <project id="Testrim" values="SCSS,CSS,JavaScript,UNKNOWN,HTML,XML" />
+      <project id="SampleNodeApp" values="JavaScript,XML,UNKNOWN" />
+      <project id="angular-blog" values="CSS,UNKNOWN,XML,HTML,JavaScript,PLAIN_TEXT,Images" />
+      <project id="express-static-mate" values="PLAIN_TEXT,UNKNOWN,JSON,XML,JavaScript" />
+      <project id="staticmate" values="JavaScript,UNKNOWN,XML,JSON,PLAIN_TEXT" />
+      <project id="AngularJsSample" values="CSS,HTML,UNKNOWN,JavaScript,XML" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="angular-app" values="DEFAULT" />
+      <project id="angular-lazy-app" values="DEFAULT" />
+      <project id="mustard-static" values="DEFAULT" />
+      <project id="mustard" values="DEFAULT" />
+      <project id="angular-view-states" values="DEFAULT" />
+      <project id="set-default" values="DEFAULT" />
+      <project id="angular-mustard" values="DEFAULT" />
+      <project id="pagejs" values="DEFAULT" />
+      <project id="ify.io" values="DEFAULT" />
+      <project id="SampleAngularApp" values="DEFAULT" />
+      <project id="Testrim" values="DEFAULT" />
+      <project id="SampleNodeApp" values="DEFAULT" />
+      <project id="angular-blog" values="DEFAULT" />
+      <project id="express-static-mate" values="DEFAULT" />
+      <project id="staticmate" values="DEFAULT" />
+      <project id="AngularJsSample" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="angular-app" values="Project,Project" />
+      <project id="angular-lazy-app" values="Project,Project" />
+      <project id="mustard-static" values="Project,Project" />
+      <project id="mustard" values="Project,Project" />
+      <project id="angular-view-states" values="Project,Project,Project" />
+      <project id="set-default" values="Project,Project,Project" />
+      <project id="angular-mustard" values="Project,Project" />
+      <project id="pagejs" values="Project,Project" />
+      <project id="ify.io" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="SampleAngularApp" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="Testrim" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="SampleNodeApp" values="Project,Project,Project" />
+      <project id="angular-blog" values="Project,Project" />
+      <project id="express-static-mate" values="Project,Project" />
+      <project id="staticmate" values="Project,Project" />
+      <project id="AngularJsSample" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="30" />
+      <entry feature="NewDirectoryProjectAction.Twitter Bootstrap" count="1" />
+      <entry feature="NewDirectoryProjectAction.empty" count="3" />
+      <entry feature="execute.DartDebugSession.Debug" count="1" />
+      <entry feature="execute.JavascriptDebugSession.Debug" count="35" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="307" />
+    </counts>
+  </component>
+</application>
+
